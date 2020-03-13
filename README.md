@@ -1,6 +1,7 @@
 # react-native-switch
 Customisable switch component for RN and React Native Web
 
+
 ### Installation
 
 ```sh
